@@ -1,4 +1,4 @@
-![Web Developer](https://res.cloudinary.com/dwcwdw3rm/image/upload/v1639022577/KR_61402.1_tehxri.jpg)
+![Web Developer]
 
 ### Hi there 👋, i'm Sazzad Hossain
 #### Web Developer
