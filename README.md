@@ -1,13 +1,13 @@
-![Web Developer]
+![Backend Developer]
 
 ### Hi there 👋, i'm Sazzad Hossain
 #### Backend Developer
 
 
-i'm a Front End Web developer who is passionate about making error-free websites with 100%  client satisfaction.i have a passion for learning and sharing my knowledge with others as publicly as possible.i love to solve real world problems.i am strategic,goal-oriented and always work with an end goal in mind.Most of the time work with ReactJs,Javascript as well as NodeJs.I enjoy working with ReactJs.
+i'm a Backend developer who is passionate about making error-free websites with 100%  client satisfaction.i have a passion for learning and sharing my knowledge with others as publicly as possible.i love to solve real world problems.i am strategic,goal-oriented and always work with an end goal in mind.Most of the time work with python(django),Mysql as well as Postgresql.I enjoy working with python.
 
 
-Skills: NODE JS /REACT / JS /HTML / CSS
+Skills: Python /Django / Mysql /Postgresql
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning javascript 
