@@ -10,9 +10,9 @@ i'm a Backend developer who is passionate about making error-free websites with 
 Skills: Python /Django / Mysql /Postgresql
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning javascript 
+- 🌱 I’m currently learning ML 
 - 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Web development 
+- 💬 Ask me about Machine Learning
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sazzadhossain881)] 
