@@ -10,7 +10,7 @@ i'm a Backend developer who is passionate about making error-free websites with 
 Skills: Python /Django / Mysql /Postgresql
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning ML 
+- 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Machine Learning
 
